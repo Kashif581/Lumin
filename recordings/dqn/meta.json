@@ -1,0 +1,11 @@
+{
+  "controller": "dqn",
+  "name": "Deep Q-learning (DQN)",
+  "steps": 5056,
+  "step_length": 0.1,
+  "frame_every": 5,
+  "frames": 1012,
+  "frame_ext": "jpg",
+  "fps": 20,
+  "seed": 42
+}

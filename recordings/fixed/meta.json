@@ -1,0 +1,11 @@
+{
+  "controller": "fixed",
+  "name": "Fixed timing",
+  "steps": 4403,
+  "step_length": 0.1,
+  "frame_every": 5,
+  "frames": 881,
+  "frame_ext": "jpg",
+  "fps": 20,
+  "seed": 42
+}

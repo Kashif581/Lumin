@@ -1,0 +1,11 @@
+{
+  "controller": "ql",
+  "name": "Q-learning",
+  "steps": 2181,
+  "step_length": 0.1,
+  "frame_every": 5,
+  "frames": 437,
+  "frame_ext": "jpg",
+  "fps": 20,
+  "seed": 42
+}
